@@ -1,1 +1,1 @@
-# kalimeros-api-gateway
+# Api gateway service for kalimeros app 
